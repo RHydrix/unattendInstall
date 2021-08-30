@@ -13,4 +13,4 @@ Default values:
     -> create and modify partition with format MSR (not seen) 16MB
     -> create and modify partition labeled Windows and has drive letter C (where windows is actually installed) Whatever is left in GB 
   
-  Installs Windows 10 Education with generic key (SHOULD BE REPLACED AFTER)
+  Each folder specifies which version of windows gets installed
